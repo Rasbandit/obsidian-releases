@@ -25079,5 +25079,12 @@
     "author": "Hamish",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Run a council of LLM value agents over your journal to surface decisions you have not made. Local-first via Ollama, OpenRouter, or any OpenAI-compatible endpoint.",
     "repo": "slaymish/Synod"
+  },
+  {
+    "id": "engram-sync",
+    "name": "Engram Sync",
+    "author": "Rasbandit",
+    "description": "Bidirectional sync between your vault and an Engram server for AI-powered semantic search.",
+    "repo": "Rasbandit/Engram-obsidian-sync"
   }
 ]
